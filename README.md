@@ -12,10 +12,10 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
 
 ## Teste Unitários para as Rotas
 
-- [ ] Users;
+- [x] Users;
   - [x] Create user;
   - [x] Login;
-  - [ ] Get user;
+  - [x] Get user;
 - [ ] Statements;
   - [ ] Get balance;
   - [ ] Make deposit;
