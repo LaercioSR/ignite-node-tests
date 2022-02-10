@@ -16,10 +16,10 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
   - [x] Create user;
   - [x] Authenticate user;
   - [x] Show user profile;
-- [ ] Statements;
+- [x] Statements;
   - [x] Create statements;
   - [x] Get balance;
-  - [ ] Get statements operation;
+  - [x] Get statements operation;
 
 ## Tecnologias e Bibliotecas
 

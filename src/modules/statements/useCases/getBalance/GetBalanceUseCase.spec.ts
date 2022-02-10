@@ -14,7 +14,7 @@ enum OperationType {
   WITHDRAW = "withdraw",
 }
 
-describe("Create Statement", () => {
+describe("Get Balance", () => {
   beforeEach(async () => {
     statementRepositoryInMemory = new InMemoryStatementsRepository();
     userRepositoryInMemory = new InMemoryUsersRepository();
@@ -26,7 +26,7 @@ describe("Create Statement", () => {
     })
   })
 
-  it("should be able to create a withdraw statement", async () => {
+  it("should be able to get balance", async () => {
     await statementRepositoryInMemory.create({
       user_id: user.id as string,
       description: "New deposit",
@@ -54,7 +54,7 @@ describe("Create Statement", () => {
     expect(result.statement).toHaveLength(3)
   })
 
-  it("should not be able to create a new statement with not-existing user", () => {
+  it("should not be able to get balance with not-existing user", () => {
     expect(async () => {await getBalanceUseCase.execute({
       user_id: "1",
     })
