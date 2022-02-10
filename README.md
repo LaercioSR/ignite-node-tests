@@ -31,7 +31,7 @@ Link com Detalhes:
 ## Testes de Integração (Rotas)
 
 - [ ] Users;
-  - [ ] POST /api/v1/users;
+  - [x] POST /api/v1/users;
   - [ ] POST /api/v1/sessions;
   - [ ] GET /api/v1/profile;
 - [ ] Statements;
