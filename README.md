@@ -30,10 +30,10 @@ Link com Detalhes:
 
 ## Testes de Integração (Rotas)
 
-- [ ] Users;
+- [x] Users;
   - [x] POST /api/v1/users;
   - [x] POST /api/v1/sessions;
-  - [ ] GET /api/v1/profile;
+  - [x] GET /api/v1/profile;
 - [ ] Statements;
   - [ ] GET /api/v1/statements/balance;
   - [ ] POST /api/v1/statements/deposit;
