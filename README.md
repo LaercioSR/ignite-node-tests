@@ -18,8 +18,8 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
   - [x] Show user profile;
 - [ ] Statements;
   - [x] Create statements;
+  - [x] Get balance;
   - [ ] Get statements operation;
-  - [ ] Get balance;
 
 ## Tecnologias e Bibliotecas
 
