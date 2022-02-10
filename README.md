@@ -13,7 +13,7 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
 ## Teste Unitários para as Rotas
 
 - [ ] Users;
-  - [ ] Create user;
+  - [x] Create user;
   - [ ] Login;
   - [ ] Get user;
 - [ ] Statements;
