@@ -14,7 +14,7 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
 
 - [ ] Users;
   - [x] Create user;
-  - [ ] Login;
+  - [x] Login;
   - [ ] Get user;
 - [ ] Statements;
   - [ ] Get balance;
