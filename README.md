@@ -14,13 +14,12 @@ Link com Detalhes: [Desafio 07 - Testes unitários](https://www.notion.so/Desafi
 
 - [x] Users;
   - [x] Create user;
-  - [x] Login;
-  - [x] Get user;
+  - [x] Authenticate user;
+  - [x] Show user profile;
 - [ ] Statements;
+  - [x] Create statements;
+  - [ ] Get statements operation;
   - [ ] Get balance;
-  - [ ] Make deposit;
-  - [ ] Make withdrawal;
-  - [ ] Get statement;
 
 ## Tecnologias e Bibliotecas
 
