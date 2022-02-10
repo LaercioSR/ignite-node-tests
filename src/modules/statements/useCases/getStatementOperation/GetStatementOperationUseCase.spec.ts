@@ -34,7 +34,7 @@ describe("Get Balance", () => {
     })
   })
 
-  it("should be able to get balance", async () => {
+  it("should be able to get statement", async () => {
     const getStatement = await getStatementOperationUseCase.execute({
       user_id: user.id as string,
       statement_id: statement.id as string
