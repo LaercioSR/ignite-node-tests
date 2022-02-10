@@ -32,7 +32,7 @@ Link com Detalhes:
 
 - [ ] Users;
   - [x] POST /api/v1/users;
-  - [ ] POST /api/v1/sessions;
+  - [x] POST /api/v1/sessions;
   - [ ] GET /api/v1/profile;
 - [ ] Statements;
   - [ ] GET /api/v1/statements/balance;
