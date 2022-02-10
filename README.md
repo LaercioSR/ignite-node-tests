@@ -36,8 +36,8 @@ Link com Detalhes:
   - [x] GET /api/v1/profile;
 - [ ] Statements;
   - [ ] GET /api/v1/statements/balance;
-  - [ ] POST /api/v1/statements/deposit;
-  - [ ] POST /api/v1/statements/withdraw;
+  - [x] POST /api/v1/statements/deposit;
+  - [x] POST /api/v1/statements/withdraw;
   - [ ] GET /api/v1/statements/:statement_id;
 
 ## Tecnologias e Bibliotecas
