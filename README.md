@@ -35,7 +35,7 @@ Link com Detalhes:
   - [x] POST /api/v1/sessions;
   - [x] GET /api/v1/profile;
 - [ ] Statements;
-  - [ ] GET /api/v1/statements/balance;
+  - [x] GET /api/v1/statements/balance;
   - [x] POST /api/v1/statements/deposit;
   - [x] POST /api/v1/statements/withdraw;
   - [ ] GET /api/v1/statements/:statement_id;
