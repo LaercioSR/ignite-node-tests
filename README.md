@@ -16,10 +16,12 @@
 
 Este repositório contêm minha solução para o sétimo, oitavo e nono (primeiro e segundo do Chapter IV e primeiro do Chapter V) desafio da trilha de NodeJs da plataforma Ignite da [Rockeseat](https://www.rocketseat.com.br/), consistindo na construção de testes unitários para uma API já pronta.
 
-Link com Detalhes:
+Links com Detalhes dos Desafios:
 
 [Desafio 07 - Testes unitários](https://www.notion.so/Desafio-01-Testes-unit-rios-0321db2af07e4b48a85a1e4e360fcd11)
+
 [Desafio 08 - Testes de integração](https://www.notion.so/Desafio-02-Testes-de-integra-o-70a8af48044d444cb1d2c1fa00056958)
+
 [Desafio 09 - Transferências com a FinAPI](https://www.notion.so/Desafio-01-Transfer-ncias-com-a-FinAPI-5e1dbfc0bd66420f85f6a4948ad727c2)
 
 ## Teste Unitários
