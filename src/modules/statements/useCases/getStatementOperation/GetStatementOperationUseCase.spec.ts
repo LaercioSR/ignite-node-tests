@@ -14,6 +14,7 @@ let statement: Statement;
 enum OperationType {
   DEPOSIT = "deposit",
   WITHDRAW = "withdraw",
+  TRANSFER = "transfer",
 }
 
 describe("Get Balance", () => {

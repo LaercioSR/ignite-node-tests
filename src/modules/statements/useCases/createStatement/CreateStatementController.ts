@@ -4,8 +4,9 @@ import { container } from 'tsyringe';
 import { CreateStatementUseCase } from './CreateStatementUseCase';
 
 enum OperationType {
-  DEPOSIT = 'deposit',
-  WITHDRAW = 'withdraw',
+  DEPOSIT = "deposit",
+  WITHDRAW = "withdraw",
+  TRANSFER = "transfer",
 }
 
 export class CreateStatementController {

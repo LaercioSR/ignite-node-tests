@@ -11,8 +11,9 @@ import { v4 as uuid } from 'uuid';
 import { User } from '../../users/entities/User';
 
 enum OperationType {
-  DEPOSIT = 'deposit',
-  WITHDRAW = 'withdraw',
+  DEPOSIT = "deposit",
+  WITHDRAW = "withdraw",
+  TRANSFER = "transfer",
 }
 
 @Entity('statements')
