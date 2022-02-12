@@ -9,7 +9,7 @@
 </h4>
 
 <h4 align="center">
- 🚧  Desafio 09 em Andamento  🚧
+ ✅  Desafio 09 Concluído  ✅
 </h4>
 
 ## Descrição do Projeto
